@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aaryan</h1>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryanparkar.aaryanparkar" alt="Visitor badge"/>
+</p>
+
+<h1 align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello;नमस्कार;नमस्ते;I'm+Aaryan+Parkar" alt="Typing SVG" />
+</p>
+</h1>
 <h3 align="center">Engineering student & full-stack web developer exploring React, Express, and React Native</h3>
 
 
@@ -16,9 +25,11 @@
 
 <h3 align="left">📞 Connect with Me</h3>
 <p align="left">
+      <a href="mailto:aaryanparkar9@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   <a href="https://x.com/AaryaNParkar9" target="_blank">
-<a href="https://twitter.com/aaryanparkar9" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
 </a>
   </a>
   <a href="https://www.linkedin.com/in/aaryan-parkar-577a88271/" target="_blank">
@@ -42,15 +53,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryanparkar&show_icons=true&theme=dracula" alt="Aaryan's GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaryanparkar&theme=dracula" alt="GitHub Streak" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanparkar&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanparkar&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryanparkar.aaryanparkar" alt="Visitor badge"/>
-</p>
