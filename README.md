@@ -1,11 +1,11 @@
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryanparkar.aaryanparkar" alt="Visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryanparkar.aaryanparkar&color=blue&title=Visitors" alt="Visitor badge"/>
 </p>
 
 <h1 align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello;नमस्कार;नमस्ते;I'm+Aaryan+Parkar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2550&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hello!;नमस्कार;नमस्ते;I'm+Aaryan+Parkar.;Welcome+to+my+GitHub." />
 </p>
 </h1>
 <h3 align="center">Engineering student & full-stack web developer exploring React, Express, and React Native</h3>
