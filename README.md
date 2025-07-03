@@ -25,7 +25,7 @@
 
 <h3 align="left">📞 Connect with Me</h3>
 <p align="left">
-      <a href="mailto:aaryanparkar9@gmail.com](https://mail.google.com/mail/?view=cm&to=aaryanparkar9@gmail.com">
+      <a href="https://mail.google.com/mail/?view=cm&to=aaryanparkar9@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   <a href="https://x.com/AaryaNParkar9" target="_blank">
