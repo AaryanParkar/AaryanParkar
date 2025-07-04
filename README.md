@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2550&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hello!;नमस्कार;नमस्ते;I'm+Aaryan+Parkar.;Welcome+to+my+GitHub." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=38&duration=2550&pause=1000&color=blue&center=true&vCenter=true&width=600&lines=Hello!;नमस्कार;नमस्ते;I'm+Aaryan+Parkar;Welcome+to+my+GitHub" />
 </p>
 </h1>
 <h3 align="center">Engineering student & full-stack web developer exploring React, Express, and React Native</h3>
