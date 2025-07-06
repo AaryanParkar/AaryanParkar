@@ -1,7 +1,7 @@
 
-<p align="right">
+<!--p align="right">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaryanparkar.aaryanparkar&color=blue&title=Visitors" alt="Visitor badge"/>
-</p>
+</p!-->
 
 <h1 align="center">
   <p align="center">
