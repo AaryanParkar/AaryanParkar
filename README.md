@@ -16,7 +16,7 @@
 - 🎓 Diploma student in Computer Engineering at Thakur Polytechnic  
 - ✨ Passionate about full-stack web development (MERN stack)  
 - 📝 Currently working on React + Express projects  
-- 📚 Exploring advanced frontend with TailwindCSS & React Native  
+- 📚 Exploring advanced frontend with TailwindCSS, React Native & Nativewind 
 
 ---
 
