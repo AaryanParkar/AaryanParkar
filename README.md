@@ -46,6 +46,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanparkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aaryanparkar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributors Stats" />
+</p>
 
 
 
